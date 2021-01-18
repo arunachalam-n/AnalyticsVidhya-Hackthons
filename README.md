@@ -11,10 +11,10 @@ They have provided multiple attributes around Employee's past and current perfor
 
 **Acknowledgements :The dataset is taken from Analytical Vidya Practice Hackathon**
 
-### Loan-Prediction
+### 2. Loan-Prediction
 DS Project on predicting loan Eligibility
 
-### 2. Description
+### Description
 We want to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers.
 
 **Dataset : AnalyticsVidhya loan prediction hackathon dataset**
